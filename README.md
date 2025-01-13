@@ -2,6 +2,8 @@
 
 This project demonstrates how to deploy a cloud-native, secure, and scalable static website using various AWS services, including Route 53, CloudFront, S3, Certificate Manager, and CodePipeline. The project automates deployment for a seamless experience and provides HTTPS support for a domain and subdomain.
 
+![arch-diagram1](https://github.com/user-attachments/assets/d7eecd06-bf3b-4c9a-9f45-c46b44413ac3)
+
 ---
 
 ## **Project Overview**
