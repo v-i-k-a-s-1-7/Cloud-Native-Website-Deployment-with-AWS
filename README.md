@@ -114,4 +114,4 @@ The architecture consists of:
 ## **Conclusion**
 This project demonstrates how to build and deploy a secure, scalable, and automated static website using AWS services. By leveraging AWS's robust tools, I was able to achieve a cloud-native architecture that ensures high performance, reliability, and ease of deployment.
 
-Feel free to explore the code and contribute: [GitHub Repository](https://github.com/v-i-k-a-s-1-7/single-server-deployment.git)
+Feel free to explore the code and contribute: [GitHub Repository](https://github.com/v-i-k-a-s-1-7/Cloud-Native-Website-Deployment-with-AWS.git)
